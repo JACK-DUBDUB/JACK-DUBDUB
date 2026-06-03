@@ -1,5 +1,3 @@
-# Hi there 👋
-
 ** Univeristy Student | Keen Interest in Software Development**
 
 ---
