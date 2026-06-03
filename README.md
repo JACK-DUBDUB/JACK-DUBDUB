@@ -1,6 +1,6 @@
 # Hi there, I'm Jack 👋
 
-** Univeristy Student | Interested in Software Development**
+** Univeristy Student | Keen Interest in Software Development**
 
 - Strong interest in C# / .NET development and Windows desktop applications
 
