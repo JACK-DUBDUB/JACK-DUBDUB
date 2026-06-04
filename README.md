@@ -1,4 +1,7 @@
-** University Student | Keen Interest in Software Development + Statistics**
+👋 Hi there!
+
+# 👽 About Me:
+**University Student | Keen Interest in Software Development and Statistics**
 
 ---
 
