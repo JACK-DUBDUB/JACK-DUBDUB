@@ -2,6 +2,7 @@
 
 # 👽 About Me:
 **University Student | Keen Interest in Software Development and Statistics**
+I also work on some dorky Doom Mod stuff.
 
 ---
 
