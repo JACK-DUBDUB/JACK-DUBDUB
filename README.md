@@ -1,4 +1,4 @@
-** Univeristy Student | Keen Interest in Software Development**
+** University Student | Keen Interest in Software Development + Statistics**
 
 ---
 
