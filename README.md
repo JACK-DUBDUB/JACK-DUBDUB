@@ -6,7 +6,7 @@
 
 **Second Year University Student | Keen Interest in Software Development and Statistics**
 
-I also work on some dorky Doom Mod stuff.
+Might be working on some Doom mod stuff.
 
 ---
 
