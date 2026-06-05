@@ -22,6 +22,6 @@ I also work on some dorky Doom Mod stuff.
 
 ## 📊 GitHub Stats:
 
-![](https://github-readme-streak-stats.herokuapp.com/?user=JACK-DUBDUB&theme=dark&hide_border=false)
+<a href="https://git.io/streak-stats"> <img src="./profile/streak.svg" alt="GitHub Streak Stats" /></a>
 
 ---
