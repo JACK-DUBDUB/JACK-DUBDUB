@@ -1,6 +1,9 @@
 👋 Hi there!
 
 # 👽 About Me:
+
+**Graduate of ICT50220 Diploma of Information Technology (Advanced Programming)**
+
 **University Student | Keen Interest in Software Development and Statistics**
 
 I also work on some dorky Doom Mod stuff.
