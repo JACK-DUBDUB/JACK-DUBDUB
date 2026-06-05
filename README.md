@@ -1,6 +1,6 @@
-👋 Hi there!
+#👋 Hi there!
 
-# 👽 About Me:
+## 👽 About Me:
 
 **Graduate of ICT50220 Diploma of Information Technology (Advanced Programming)**
 
