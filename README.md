@@ -1,5 +1,7 @@
 # 👋 Hi there!
 
+---
+
 ## 👽 About Me:
 
 **Graduate of ICT50220 Diploma of Information Technology (Advanced Programming)**
