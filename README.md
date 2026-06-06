@@ -18,6 +18,7 @@ Might be working on some Doom mod stuff.
 ![C#](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white)
 ![.NET](https://img.shields.io/badge/.NET-512BD4?style=for-the-badge&logo=dotnet&logoColor=white)
 ![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
+![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
 ![R](https://img.shields.io/badge/R-276DC3?style=for-the-badge&logo=r&logoColor=white)
 ![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
@@ -31,14 +32,17 @@ Might be working on some Doom mod stuff.
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
 ![Assembly](https://img.shields.io/badge/Assembly-6E4C13?style=for-the-badge&logo=assemblyscript&logoColor=white)
 ![Visual Studio](https://img.shields.io/badge/Visual%20Studio-5C2D91?style=for-the-badge&logo=visualstudio&logoColor=white)
+![Visual Studio Code](https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white)
+![Anaconda](https://img.shields.io/badge/Anaconda-44A833?style=for-the-badge&logo=anaconda&logoColor=white)
 ![RStudio](https://img.shields.io/badge/RStudio-75AADB?style=for-the-badge&logo=rstudio&logoColor=white)
 ![XAMPP](https://img.shields.io/badge/XAMPP-FB7A24?style=for-the-badge&logo=xampp&logoColor=white)
 
 ---
 
 **Languages & Frameworks**
-- **C# / .NET** — Windows Forms applications, data structures, algorithms, CRUD operations
+- **C# / .NET** — Windows Forms applications, data structures, algorithms, CRUD operations, JWT
 - **C** — Procedural programming, file I/O, data structures, and low-level concepts
+- **Python** — Scripting, data processing, automation, editing of various mediums 
 - **R** — Statistical data analysis, visualization (ggplot2, etc.), research methods
 - **PHP + MySQL** — Full-stack web development with PDO, authentication, RBAC
 - **HTML/CSS/JavaScript + Bootstrap** — Responsive frontends
@@ -46,7 +50,7 @@ Might be working on some Doom mod stuff.
 **Low-Level & Tools**
 - **x86 Assembly** — Low-level programming and hardware interaction
 - **Git / GitHub** — Version control and collaboration
-- **Visual Studio, RStudio, XAMPP/Laragon** — Primary development environments
+- **Visual Studio, RStudio, XAMPP, phpMyAdmin** — Primary development environments
 
 ---
 
